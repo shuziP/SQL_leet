@@ -4,7 +4,8 @@
 **注**：如果签到记录的in_time-进入时间和out_time-离开时间跨天了，也只记作in_time对应的日期签到了。
 
 [连续签到领金币__牛客网](https://www.nowcoder.com/questionTerminal/aef5adcef574468c82659e8911bb297f)
-代码有问题，待解决
+
+
 ```sql
 
 with t1 as (
